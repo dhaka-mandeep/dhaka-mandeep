@@ -5,7 +5,7 @@
 - 💬 Ask me about **Python** & **SQL**
 - 💬 Ask me about **PowerBI** & **Data Analysis**
   
-- 📫 How to reach me **mandeepdhaka2002@gmail.com**
+- 📫 How to reach me **mandeepdhakagermany@gmail.com**
 
 - ⚡ Fun fact **I enjoy converting messy data into meaningful insights to improve business decisions.**
 
